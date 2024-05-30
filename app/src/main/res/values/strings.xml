@@ -1,0 +1,7 @@
+<resources>
+<string name="app_name">微信云函数Hook</string>
+<string name="app_description">Hook_WeChat_FaaS的XPosed版本</string>
+<string-array name="scope">
+    <item>com.tencent.mm</item>
+</string-array>
+</resources>
